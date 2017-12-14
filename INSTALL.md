@@ -18,6 +18,7 @@ npm --version
 
 ```bash
 npm install -g vue-cli
+vue --version
 ```
 
 #### Editores de texto
