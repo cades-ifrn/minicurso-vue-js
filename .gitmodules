@@ -1,0 +1,3 @@
+[submodule "vue-tutorial"]
+	path = vue-tutorial
+	url = https://github.com/kessiacastro/vue-tutorial
